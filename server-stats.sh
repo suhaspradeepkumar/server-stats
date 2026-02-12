@@ -14,3 +14,7 @@ ps -eo pid,comm,%cpu --sort=-%cpu | head -6
 
 echo -e "\nTop 5 Memory Processes:"
 ps -eo pid,comm,%mem --sort=-%mem | head -6
+
+echo "System Uptime:"
+uptime
+echo "Hello"
