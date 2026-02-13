@@ -1,3 +1,2 @@
-https://github.com/suhaspradeepkumar/server-stats
-
+https://roadmap.sh/projects/server-stats
 "Project url"
